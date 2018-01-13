@@ -8,7 +8,7 @@ int main(){
     for(; ;){
         printf("Hello github\n");
     }
-    
+    ///here i am merging the code
   
   
   	return 0;
